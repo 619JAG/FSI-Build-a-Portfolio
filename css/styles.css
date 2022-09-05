@@ -1,0 +1,17 @@
+Body {background-color: lightgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: crosshair;
+}
+
+#code-image {
+
+    border-radius: 25px;
+    border: 5px solid magenta;
+    height: 40%;
+    width: 40%;
+}
+
+.Header-centered{
+
+    text-align: center;
+}
